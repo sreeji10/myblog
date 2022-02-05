@@ -28,8 +28,8 @@ button_link = "about/"
 content = "Here you will find content related to Machine Learning and Deep Learning topics"
 enable = true
 image = "images/banner.png"
-title_large = "Welcome **!**"
-title_small = "to The Machine Learning Blog"
+title_large = "Machine Learning Blog **!**"
+title_small = ""
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
