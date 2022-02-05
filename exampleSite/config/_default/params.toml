@@ -25,11 +25,11 @@ link = "https://gethugothemes.com/"
 background_image = "/images/banner-bg-shape.svg"
 button_label = "Know About Me"
 button_link = "about/"
-content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
+content = "Here you will find content related to Machine Learning and Deep Learning topics"
 enable = true
 image = "images/banner.png"
 title_large = "Welcome **!**"
-title_small = "to Jhon Bravo Blog"
+title_small = "to The Machine Learning Blog"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
@@ -44,18 +44,6 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [widgets]
 sidebar = ["about", "categories", "recent-post", "newsletter"]
-[[social]]
-icon = "fab fa-facebook"
-link = "#"
-title = "facebook"
-[[social]]
-icon = "fab fa-twitter"
-link = "#"
-title = "twitter"
-[[social]]
-icon = "fab fa-instagram"
-link = "#"
-title = "instagram"
 [[social]]
 icon = "fab fa-github"
 link = "#"
