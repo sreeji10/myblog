@@ -1,4 +1,4 @@
-baseURL = "https://https://www.themlblog.com/"
+baseURL = "https://www.themlblog.com/"
 disableLanguages = ["fr"]
 disqusShortname = ""
 googleAnalytics = ""
