@@ -6,7 +6,7 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 summaryLength = "20"
-theme = "geeky-hugo"
+theme = "myblog"
 title = "ML Blog"
 [caches.assets]
 dir = ":resourceDir/_gen"
