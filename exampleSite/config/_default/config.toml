@@ -1,7 +1,7 @@
 baseURL = "https://www.themlblog.com/"
 disableLanguages = ["fr"]
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "G-Z9XN1KHT2Z"
 languageCode = "en-us"
 languageName = "En"
 paginate = "6"
