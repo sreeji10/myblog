@@ -97,12 +97,14 @@
 
         <!-- advertisement -->
         {{ with site.Params.advertisement }}
+        {{ if .enable }}
         <div class="mb-5">
           <a href="{{.link | absLangURL}}">
             {{ $image:= resources.Get .image }}
             <img class="img-fluid w-100" width="858" height="123" src="{{ $image.RelPermalink }}" alt="image">
           </a>
         </div>
+        {{ end }}
         {{ end }}
         <!-- /advertisement -->
 
