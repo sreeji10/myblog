@@ -19,6 +19,7 @@ navbar_fixed = false
 recent_post_title = "Recent Post"
 search = true
 [advertisement]
+enable = false
 image = "images/promotion.png"
 link = ""
 [banner]
