@@ -4,7 +4,7 @@ description: About me
 image: images/author.png
 layout: about
 education:
-  enable: false
+  enable: true
   title: Formal Education
   education_list:
   - name: Visvesvaraya Technological University
@@ -14,11 +14,6 @@ experience:
   title: Work Experience
   experience_list:
   - Best Writer Award
-  - Best New Newel
-  - Best Book
-  - Best Article
-  - Best New Newel
-  - Best New Newel
   - Best Book
   - Best Article
   - Best New Newel
