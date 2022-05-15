@@ -44,7 +44,7 @@ enable = false
 mailchimp_form_action = ""
 mailchimp_form_name = ""
 [widgets]
-sidebar = ["about", "categories", "recent-post", "newsletter"]
+sidebar = ["about", "categories", "recent-post"]
 [[social]]
 icon = "fab fa-github"
 link = "#"
