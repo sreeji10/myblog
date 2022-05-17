@@ -1,8 +1,8 @@
 ---
 title: "Installing CockroachDB client on Ubuntu 20.04"
-description: "meta description"
+description: "installing CockroachDB client on Ubuntu"
 image: "images/post/cockroachdb.png"
-date: 2022-05-15T18:19:25+06:00
+date: 2022-05-10T18:19:25+06:00
 categories: ["Database"]
 type: "featured" # available types: [featured/regular]
 draft: false
@@ -24,10 +24,10 @@ Please follow [this](https://www.cockroachlabs.com/docs/v21.2/install-cockroachd
 
 </br> 
 
-##### Downloading CA Certifcate
+##### Downloading CA Certificate
 -Now once the client is installed, we need to download the CA Certificate so that we can connect remotely to the database.</br>
--The command to download the same is OS dependent and same can be found on the custers page.</br>
--Click on the Connect button on the custer webpage and it should open up a popup window.</br>
+-The command to download the same is OS dependent and same can be found on the clusters page.</br>
+-Click on the Connect button on the cluster webpage and it should open up a popup window.</br>
 -Copy the Download CA-Cert command
 
 <div class="box1" >
@@ -37,7 +37,7 @@ Please follow [this](https://www.cockroachlabs.com/docs/v21.2/install-cockroachd
 
 
 -Execute the command in the terminal </br>
--This will download the certifate the the logged-in users home directory.
+-This will download the certificate the the logged-in users home directory.
 
 ```console
 $ curl --create-dirs -o $HOME/.postgresql/root.crt -O https://cockroachlabs.cloud/clusters/7f5acd64-69eb-4684-bd61-d7cdb946a678/cert
@@ -96,7 +96,7 @@ Time: 94ms total (execution 2ms / network 92ms)
 <hr style="height:2px;border-width:0;color:black;background-color:black">
 
 Thank you for reading this post. </br>
-If you would like to know how to connect to CockroachDB server using Python; then be sure to check this post [here](http://localhost:1313/blog/post-4/).
+If you would like to know how to connect to CockroachDB server using Python; then be sure to check this post [here](/blog/post-4/).
 
 
 <style>

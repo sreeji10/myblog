@@ -1,8 +1,8 @@
 ---
 title: "Creating a CockroachDB cluster"
-description: "meta description"
+description: "creating a CockroachDB cluster"
 image: "images/post/cockroachdb.png"
-date: 2022-05-15T18:19:25+06:00
+date: 2022-05-05T18:19:25+06:00
 categories: ["Database"]
 type: "featured" # available types: [featured/regular]
 draft: false
@@ -72,7 +72,7 @@ Once the cluster is ready, we have to create a SQL user, using which we will int
 <hr style="height:2px;border-width:0;color:black;background-color:black">
 
 Thank you for reading this post. </br>
-If you want to find how to setup to CockroachDB client in your local system then be sure to check this post [here](http://localhost:1313/blog/post-3/).
+If you want to find how to setup to CockroachDB client in your local system then be sure to check this post [here](/blog/post-3/).
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-description: "meta description"
+description: "Machine Learning Blog"
 draft: false
 ---
 
